@@ -8,5 +8,114 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://rdk25.github.io/calc_website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course Info</title>
+      <link>https://rdk25.github.io/calc_website/posts/courseinfo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rdk25.github.io/calc_website/posts/courseinfo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://xkcd.com/2042/&#34;&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://rdk25.github.io/calc_website/posts/rolles_theorem-1.png&#34;/&gt;
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Contact Information&lt;/h3&gt; 
+
+&lt;p&gt;&lt;strong&gt;Course:&lt;/strong&gt; AP Calculus AB&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructors:&lt;/strong&gt;&lt;br /&gt;
+Douglas Wills (dwills@summitps.org)&lt;br /&gt;
+Rhody Kaner (rkaner@summitps.org)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Room&lt;/strong&gt;: P1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Office Hours:&lt;/strong&gt;&lt;br /&gt;
+Tuesdays 3:30 - 5:00pm (Wills)&lt;br /&gt;
+Wednesdays 3:45 - 4:45pm (Kaner)&lt;br /&gt;
+Thursday 3:30 - 5:00pm (Wills &amp;amp; Kaner)&lt;br /&gt;
+Fridays after school by appt.&lt;/p&gt;
+
+&lt;h3&gt;Course Objectives and Learning Outcomes&lt;/h3&gt; 
+
+&lt;p&gt;&lt;strong&gt;By the end of the course you should be able to&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Work with functions represented in a variety of ways: graphical, numerical, analytical, or verbal.
+You should understand the connections among these representations.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Understand the meaning of the derivative in terms of a rate of change and local linear approximation and use derivatives to solve a variety of problems.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Understand the meaning of the definite integral both as a limit of Riemann sums and as the net accumulation of change and use integrals to solve a variety of problems.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Understand the relationship between the derivative and the definite integral as expressed in both parts of the Fundamental Theorem of Calculus.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Communicate mathematics both orally and in well-written sentences and explain solutions to problems.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Model a written description of a physical situation with a function, a differential equation, or an integral.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Use technology to help solve problems, experiment, interpret results, and verify conclusions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Determine the reasonableness of solutions, including sign, size, relative accuracy, and units of measurement.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Develop an appreciation of calculus as a coherent body of knowledge and as a human accomplishment.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Required Texts and Materials&lt;/h3&gt; 
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A three-ring binder is required no later than your first class the week of August 20th&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The textbook is called Calculus Third Edition (for Students) by CPM. You will have access to the e-book version of the text&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Make sure you have a pencil to write with every day&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Exams and Papers&lt;/h3&gt;
+
+&lt;p&gt;There will be 8 regular exams at the end of every chapter as well as one final exam at the end of each semester.
+There will be quizzes every couple of weeks in the middle of each chapter. There may be more than one quiz in a given chapter depending on the length of the chapter.&lt;/p&gt;
+
+&lt;h3&gt;Grade Policies&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Power Focus Areas: 21%&lt;/strong&gt;&lt;br /&gt;
+    As always, completing all of these is necessary to pass the course.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Additional Focus Areas: 9%&lt;/strong&gt;&lt;br /&gt;
+    Completing these are not necessary to pass this course, but they are worth roughly one letter grade.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quizzes: 15%&lt;/strong&gt;&lt;br /&gt;
+    Short quizzes with a few questions that cover topics from previous classes. Generally you will be given 30 minutes or so to work on these in class.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Homework: 15%&lt;/strong&gt;&lt;br /&gt;
+    Homework will be checked every day. If you complete all homework assignments on time before a test you will be allowed a one page “cheat sheet” to use on the test, but it must be handwritten. If you have not completed four out of every five assignments (rounded down) by the day of the test your score will be marked down by 7%. If you have completed fewer than half of the assignments it will be marked down 15%. You may complete any missed assignments after a test in office hours and be given full credit back on the test. This means if you lost 15% and complete the assignments you missed, I’ll give you that 15% back! Aren’t I a nice guy?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tests: 40%&lt;/strong&gt;&lt;br /&gt;
+    Tests will make up the vast majority of your grade. Welcome to a college level class.&lt;/p&gt;
+
+&lt;h3&gt;Revision Policy&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Tests&lt;/strong&gt;&lt;br /&gt;
+    If you score below an 85% on your exam you may take an alternative version of the exam in order to raise your score. Please understand that the 85% does not include the homework portion. If you got an 85% because you were marked down for doing no homework, the only way to make that up is completing the assignments with me in office hours. If you missed any homework assignments before the exam you must make them up with me in office hours before setting up a day to retake the exam. Further, you must go over your original exam with me in its entirety to be eligible for taking a second exam. Once we have gone over it you need to make corrections, and then you may schedule a day and time to take another version of the exam. This new exam will replace your original score entirely if your score improves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quizzes&lt;/strong&gt;&lt;br /&gt;
+    Should you do poorly on a quiz you can make it up during an SDL class or potentially on a Wednesday. You’ll need to make corrections on the original first. It will completely replace whatever score you received on the original.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Homework&lt;/strong&gt;&lt;br /&gt;
+    Should you fail to complete four out of every five assignments (rounded down) before the day of an exam, you will immediately lose 7% from whatever you would score. Should you fail to complete at least half of the assignments you will lose 15%. You may get full credit back simply by coming in to office hours and completing the assignments there. I want to make it very clear that you may NOT do the assignments outside of office hours and show them to me for credit. They must be completed at office hours. Any credit that you lost from your test will be immediately given back upon the completion of the missing work. (And no, you cannot only complete four out of every five to make up the points after the test. You owe me 100% of the assignments at that point).&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Classroom Rules&lt;/h3&gt;
+&lt;strong&gt;Swearing:&lt;/strong&gt;&lt;br /&gt;
+ Please do not swear in my classroom. I will almost certainly not send you out of my room for doing so, but should you swear I will call out, “LANGUAGE” towards you. My expectation is that you acknowledge it happened, and preferably apologize for the slip. Hopefully, over the course of the year we are able to break some bad habits in this regard and it won’t be a major issue.
+Exception: Should I hear any kind of slur or the “B” word we will have a chat and if it is habitual then you will be sent to the office.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Phone Policy:&lt;/strong&gt;&lt;br /&gt;
+ If I see your phone, I will take it and put it on my desk face down until the end of class. You may get it from my desk when I dismiss you. There are no exceptions. If you can get away with having it out without me noticing, that’s fine. But if I catch you, I get to take it. It’s like a game, but I always win. This takes place immediately upon you entering my room starting 5 minutes before school begins.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Work Hard and Be Nice:&lt;/strong&gt;&lt;br /&gt;
+ That’s pretty much it as far as rules go. That’s basically what all my classroom rules boil down to. Be on task when you need to be on task, and be kind to the people around you. If you’re doing those two things then there will never be an issue and everyone’s energy can be spent on the most important thing for all of us: Your education.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Syllabus Change Policy&lt;/h3&gt;
+This syllabus is only a guide for the course and is subject to change with advanced notice.&lt;/p&gt;
+</description>
+    </item>
   </channel>
 </rss>
